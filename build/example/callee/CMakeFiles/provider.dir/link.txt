@@ -1,1 +1,0 @@
-/opt/rh/devtoolset-9/root/usr/bin/c++ -g -rdynamic CMakeFiles/provider.dir/friendservice.cc.o CMakeFiles/provider.dir/__/friend.pb.cc.o -o ../../../bin/provider   -L/root/code/MPRPC/lib  -Wl,-rpath,/root/code/MPRPC/lib ../../../lib/libmprpc.a -lprotobuf -lmuduo_net -lmuduo_base -lpthread -lzookeeper_mt 
