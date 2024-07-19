@@ -1,0 +1,12 @@
+14:3:16 ==>[error]first log message!
+14:3:16 ==>[error]/root/code/MPRPC/example/callee/friendservice.cc:main:45
+14:3:16 ==>[info]service_name:FriendServiceRpc
+14:3:16 ==>[info]method_name:GetFriendsList
+14:14:21 ==>[error]first log message!
+14:14:21 ==>[error]/root/code/MPRPC/example/callee/friendservice.cc:main:45
+14:14:21 ==>[info]service_name:FriendServiceRpc
+14:14:21 ==>[info]method_name:GetFriendsList
+14:15:59 ==>[info]first log message!
+14:15:59 ==>[info]/root/code/MPRPC/example/callee/friendservice.cc:main:45
+14:15:59 ==>[info]service_name:FriendServiceRpc
+14:15:59 ==>[info]method_name:GetFriendsList

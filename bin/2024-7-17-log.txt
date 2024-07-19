@@ -1,0 +1,2 @@
+15:24:26 ==>first log message!15:24:26 ==>/root/code/MPRPC/example/callee/friendservice.cc:main:4515:24:48 ==>first log message!
+15:24:48 ==>/root/code/MPRPC/example/callee/friendservice.cc:main:45
